@@ -187,7 +187,7 @@ width: 100%;
     width: 60%;
     height: 50vh;
     margin:  auto 20%;
-    top: 300px;
+    top: 1650px;
     box-shadow: 3px 4px 6px rgb(11, 11, 11);
     border-radius: 10px;
     border: 5pt solid rgb(5, 99, 140);
@@ -623,7 +623,7 @@ margin-bottom: 30px;
             width: 70%;
             height:60vh;
             margin:  auto 120px;
-            top: 240px;
+            top: 100%;
             
             
         }
@@ -730,7 +730,7 @@ margin-bottom: 30px;
         width: 80%;
         height:60vh;
         margin:  5px 10%;
-        top: 160px;
+        top: 1300px;
         
     }
     .rotate{

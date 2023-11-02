@@ -5,7 +5,8 @@ menuIcon.addEventListener("click", () => {
   menuIcon.classList.toggle("activebtn");
 });
 let popupClose = document.querySelector(".popupClose");
-let loginbtn = document.querySelector(".btn-login");
+// let loginbtn = document.querySelector(".btn-login");
+let loginbtn = document.querySelector(".learnMore");
 let popupContainer = document.querySelector(".popupContainer");
 popupClose.addEventListener("click", () => {
   popupContainer.style.display = "none";
